@@ -17,6 +17,11 @@
     padding: 0 15px;
 }
 
+.gplay {
+    height: 64px;
+    max-height: 64px;
+}
+
 #intro, #work, #team {padding-top: 4rem;}
 
 #index-banner {

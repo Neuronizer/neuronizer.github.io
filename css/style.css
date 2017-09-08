@@ -5,6 +5,13 @@
  * Thanks for MaterializeCSS.com
  */
 
+.link {
+    color: white;
+}
+.link:hover {
+    color: #FF6200 !important;
+}
+
 .default_color{background-color: #00D1A2 !important}
 
 .default_color_text{color: #00D1A2 !important}

@@ -14,6 +14,8 @@
 
 .default_color{background-color: #00D1A2 !important}
 
+.default_color_darken{background-color: #00AB85 !important}
+
 .default_color_text{color: #00D1A2 !important}
 
 .secondary_color{background-color: #FF6200 !important}
@@ -27,6 +29,11 @@
 .gplay {
     height: 64px;
     max-height: 64px;
+}
+
+.img-center { 
+  display:block;
+  margin:0 auto;
 }
 
 #intro, #work, #team {padding-top: 4rem;}
